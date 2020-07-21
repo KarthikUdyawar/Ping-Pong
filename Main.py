@@ -43,7 +43,7 @@ while Main_Loop:
                 from P1vsP2 import *
                 Main_Loop = False
             elif event.key == K_2:
-                from P1vsAL import *
+                from P1vsAi import *
                 Main_Loop = False
         # check for closing windows
         if event.type == pygame.QUIT:
